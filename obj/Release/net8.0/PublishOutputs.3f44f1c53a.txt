@@ -1,0 +1,7 @@
+C:\VS code\dotNet\bin\Release\net8.0\publish\.Net.exe
+C:\VS code\dotNet\bin\Release\net8.0\publish\appsettings.Development.json
+C:\VS code\dotNet\bin\Release\net8.0\publish\appsettings.json
+C:\VS code\dotNet\bin\Release\net8.0\publish\.Net.dll
+C:\VS code\dotNet\bin\Release\net8.0\publish\.Net.deps.json
+C:\VS code\dotNet\bin\Release\net8.0\publish\.Net.runtimeconfig.json
+C:\VS code\dotNet\bin\Release\net8.0\publish\.Net.pdb

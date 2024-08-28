@@ -1,0 +1,12 @@
+C:\VS code\.Net\bin\Release\net8.0\publish\.Net.exe
+C:\VS code\.Net\bin\Release\net8.0\publish\out\web.config
+C:\VS code\.Net\bin\Release\net8.0\publish\appsettings.Development.json
+C:\VS code\.Net\bin\Release\net8.0\publish\appsettings.json
+C:\VS code\.Net\bin\Release\net8.0\publish\out\.Net.deps.json
+C:\VS code\.Net\bin\Release\net8.0\publish\out\.Net.runtimeconfig.json
+C:\VS code\.Net\bin\Release\net8.0\publish\out\appsettings.Development.json
+C:\VS code\.Net\bin\Release\net8.0\publish\out\appsettings.json
+C:\VS code\.Net\bin\Release\net8.0\publish\.Net.dll
+C:\VS code\.Net\bin\Release\net8.0\publish\.Net.deps.json
+C:\VS code\.Net\bin\Release\net8.0\publish\.Net.runtimeconfig.json
+C:\VS code\.Net\bin\Release\net8.0\publish\.Net.pdb

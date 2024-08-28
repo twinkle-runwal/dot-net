@@ -1,0 +1,7 @@
+C:\VS code\.Net\out\.Net.exe
+C:\VS code\.Net\out\appsettings.Development.json
+C:\VS code\.Net\out\appsettings.json
+C:\VS code\.Net\out\.Net.dll
+C:\VS code\.Net\out\.Net.deps.json
+C:\VS code\.Net\out\.Net.runtimeconfig.json
+C:\VS code\.Net\out\.Net.pdb
